@@ -1,4 +1,4 @@
-# Asteroid Dodge
+# Asteroid Dodge Game in Python
 
 A 2D Pygame “dodge the asteroids” game—survive as long as you can!
 
